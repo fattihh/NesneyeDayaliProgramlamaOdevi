@@ -1,0 +1,16 @@
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\bin\Debug\net6.0-windows\NDPÖDEV.exe
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\bin\Debug\net6.0-windows\NDPÖDEV.deps.json
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\bin\Debug\net6.0-windows\NDPÖDEV.runtimeconfig.json
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\bin\Debug\net6.0-windows\NDPÖDEV.dll
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\bin\Debug\net6.0-windows\NDPÖDEV.pdb
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.Form1.resources
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.AssemblyInfoInputs.cache
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.AssemblyInfo.cs
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.dll
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\refint\NDPÖDEV.dll
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.pdb
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\NDPÖDEV.genruntimeconfig.cache
+C:\Users\Fatih\source\repos\NDPÖDEV\NDPÖDEV\obj\Debug\net6.0-windows\ref\NDPÖDEV.dll
